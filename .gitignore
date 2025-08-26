@@ -39,3 +39,7 @@ sysinfo.txt
 Thumbs.db
 
 
+
+# Plastic SCM
+.plastic/
+
