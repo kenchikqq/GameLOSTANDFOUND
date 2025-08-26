@@ -1,0 +1,22 @@
+# Normalize line endings
+* text=auto eol=lf
+
+# Treat common Unity assets as binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.psd binary
+*.prefab binary
+*.unity binary
+*.mat binary
+*.anim binary
+*.controller binary
+*.fbx binary
+*.asset binary
+*.wav binary
+*.mp3 binary
+*.ogg binary
+*.ttf binary
+*.otf binary
+
+

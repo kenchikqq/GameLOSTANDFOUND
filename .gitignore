@@ -1,0 +1,41 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+
+# Rider / VS / VSCode
+.vs/
+.idea/
+.vscode/*
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Crash / Reports
+sysinfo.txt
+
+# Gradle / Android
+.gradle/
+*.apk
+*.aab
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+
